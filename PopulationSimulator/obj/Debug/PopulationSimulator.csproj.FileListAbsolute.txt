@@ -1,0 +1,6 @@
+c:\users\mjones\documents\visual studio 2012\Projects\PopulationSimulator\PopulationSimulator\bin\Debug\PopulationSimulator.exe.config
+C:\Users\mjones\documents\visual studio 2012\Projects\PopulationSimulator\PopulationSimulator\obj\Debug\PopulationSimulator.csprojResolveAssemblyReference.cache
+C:\Users\mjones\documents\visual studio 2012\Projects\PopulationSimulator\PopulationSimulator\bin\Debug\PopulationSimulator.exe
+C:\Users\mjones\documents\visual studio 2012\Projects\PopulationSimulator\PopulationSimulator\bin\Debug\PopulationSimulator.pdb
+C:\Users\mjones\documents\visual studio 2012\Projects\PopulationSimulator\PopulationSimulator\obj\Debug\PopulationSimulator.exe
+C:\Users\mjones\documents\visual studio 2012\Projects\PopulationSimulator\PopulationSimulator\obj\Debug\PopulationSimulator.pdb

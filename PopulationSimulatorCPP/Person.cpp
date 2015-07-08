@@ -4,7 +4,7 @@
 
 static std::uniform_real_distribution<double> propensityGenerator(.5,1);
 static std::uniform_real_distribution<double> matingGenerator(0,1);
-static std::default_random_engine re();
+static std::default_random_engine re;
 
 static std::vector<long>* UnionedAncestors(std::vector<long>& left, std::vector<long>& right)
 {

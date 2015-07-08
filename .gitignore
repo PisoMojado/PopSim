@@ -1,0 +1,6 @@
+#This hides the root directories for compilation:
+Release/
+ipch/
+
+#This hides any solution files not needed for our solution's operation on other machines.
+*.suo
